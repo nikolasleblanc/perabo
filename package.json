@@ -1,6 +1,6 @@
 {
   "name": "perabo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Accepts any number of functions as parameters, and pipes provided arguments through those functions in sequence.",
   "main": "index.js",
   "scripts": {
