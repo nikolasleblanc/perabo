@@ -1,0 +1,15 @@
+{
+  "name": "perabo",
+  "version": "1.0.1",
+  "description": "Accepts any number of functions as parameters, and pipes provided arguments through those functions in sequence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Nikolas LeBlanc <nikolas.leblanc@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
